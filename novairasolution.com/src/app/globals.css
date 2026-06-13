@@ -1,0 +1,10 @@
+/* Custom styles moved to layout.tsx for CDN parsing */
+body {
+  padding-top: 8rem; /* Equivalent to pt-32 */
+}
+.hp-field-secure {
+  display: none !important;
+}
+html {
+  scroll-behavior: smooth;
+}
